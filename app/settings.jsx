@@ -25,8 +25,7 @@ const settings = () => {
             onPress={() => router.push('/')} 
             style={{
             top: 10,  
-            left: 20,
-            zIndex: 10,}}>
+            left: 20,}}>
           <Text style={{ color: 'white', fontSize: 20, fontWeight: '400'}}>{'<'} Index</Text> 
           </TouchableOpacity>
         </View>
