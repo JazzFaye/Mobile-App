@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SD2",
-    "slug": "SD2",
+    "name": "AquariumApp",
+    "slug": "AquariumApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
