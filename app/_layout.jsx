@@ -30,6 +30,7 @@ const RootLayout = () => {
       {/* Index Screen */}
       <Stack.Screen name="index" options={{ headerShown: false }} />
 
+      {/* Settings Screen */}
       <Stack.Screen name="settings" options={{ headerShown: false }} />
     </Stack>
   );

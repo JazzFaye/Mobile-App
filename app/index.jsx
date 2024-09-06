@@ -85,7 +85,7 @@ export default function App() {
                   />
                 </TouchableOpacity>
               </View>
-              {/* Round 2 */}
+              {/* Row 2 */}
               <View style={{ flexDirection: 'row', justifyContent: 'center', alignItems: 'center', marginTop: 50 }}>
                 
                 {/* Light Button Needs to be fixed*/}
