@@ -36,17 +36,17 @@ const settings = () => {
           <View className="relative mt-5">
             <CustomButton
               title="Sensor Setting"
-              handlePress={() => router.push('/history')}
+              handlePress={() => router.push('/sensorSetting')}
               containerStyles="w-full mt-7"
             />
             <CustomButton
               title="Dispenser Setting"
-              handlePress={() => router.push('/settings')}
+              handlePress={() => router.push('/dispenserSetting')}
               containerStyles="w-full mt-7"
             />
              <CustomButton
               title="LED Setting"
-              handlePress={() => router.push('/settings')}
+              handlePress={() => router.push('/ledSetting')}
               containerStyles="w-full mt-7"
             />
           </View>
